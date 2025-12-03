@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *'   # Atualiza a cada 12 horas
+  workflow_dispatch:         # Permite rodar manualmente no Actions
 
 permissions:
   contents: read
@@ -17,12 +17,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: RENOVATINHO
           template: classic
+          
+          # Sessões principais (SEM activity para evitar erro)
           base: header, community, repositories, metadata
+
+          # Fuso horário
           config_timezone: America/Sao_Paulo
-          
-          # Linguagens (ok)
+
+          # Linguagens (funciona)
           plugin_languages: yes
-          
-          # Recent activity (funciona)
+
+          # Atividade recente (versão que FUNCIONA)
           plugin_activity: yes
           plugin_activity_limit: 5
