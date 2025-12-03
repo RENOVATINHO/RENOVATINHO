@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # Atualiza a cada 12 horas
-  workflow_dispatch:         # Permite rodar manualmente no Actions
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -12,21 +12,15 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@d6484007f63018e850df615052c3ef0bed301c18
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: RENOVATINHO
           template: classic
-          
-          # Sessões principais (SEM activity para evitar erro)
           base: header, community, repositories, metadata
-
-          # Fuso horário
           config_timezone: America/Sao_Paulo
 
-          # Linguagens (funciona)
           plugin_languages: yes
 
-          # Atividade recente (versão que FUNCIONA)
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_acti_
