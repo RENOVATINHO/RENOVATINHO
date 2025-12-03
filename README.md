@@ -1,9 +1,7 @@
-## Hi there 👋
-<!-- Banner Futurista -->
+<!-- Banner  -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=IM+Renovatinho;Robótica+%7C+Eletrônica+%7C+Programação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=900&pause=1500&color=101E67&center=true&vCenter=true&width1584&lines=Renovatinho&background=00000000&cursor=%7C" />
 </div>
-
 ---
 
 ## ⚡ Sobre mim
