@@ -73,5 +73,5 @@ Gosto de transformar ideias em hardware real.
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-  </div>
+  <img src="https://metrics.lecoq.io/renovatinho?template=classic&languages=1&activity=1&base=header" />
+</div>
