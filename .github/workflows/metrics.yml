@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@2b412a2f619bcc6c07cbb2b61cd1956d08d51a5a
+      - uses: lowlighter/metrics@v3.34.0
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: RENOVATINHO
@@ -21,6 +21,5 @@ jobs:
           config_timezone: America/Sao_Paulo
 
           plugin_languages: yes
-
           plugin_activity: yes
           plugin_activity_limit: 5
