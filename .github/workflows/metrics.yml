@@ -19,4 +19,10 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          
+          # Linguagens (ok)
           plugin_languages: yes
+          
+          # Recent activity (funciona)
+          plugin_activity: yes
+          plugin_activity_limit: 5
