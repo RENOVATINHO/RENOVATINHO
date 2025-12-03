@@ -12,14 +12,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@f468f2d57c2cf64ed38bc5a1fa1d6092f809ad27
+      - uses: lowlighter/metrics@7e7ca712dca7dd393690e0c064cc66d21413bc0d
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: RENOVATINHO
           template: classic
           base: header, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-
           plugin_languages: yes
           plugin_activity: yes
           plugin_activity_limit: 5
