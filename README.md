@@ -5,13 +5,7 @@
 ---
 
 ## ⚡ Sobre mim
-Sou um desenvolvedor focado em **eletrônica, automação, robótica, sistemas embarcados e programação**.  
-Atualmente trabalhando em projetos como:
-
-- 🤖 **Braço Robótico 6DOF** (servos MG996R + MG90S + Orange Pi 3)  
-- 🔧 **Projetos eletrônicos** (PWM, drivers, sensores, fontes, etc.)  
-- 🖨️ **Impressões 3D / Modificações em Creality K1 Max**  
-- 🧠 **Sistemas Linux embarcados + automação industrial caseira**
+Hello Raider, me chamo Guilherme guilherme e sou um entusiasta de novas tecnologias:
 
 Gosto de transformar ideias em hardware real.
 
@@ -24,13 +18,7 @@ Gosto de transformar ideias em hardware real.
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,bash" height="40" />
 </div>
 
-### 🔌 Eletrônica & Hardware
-- PWM, controle de servos, fontes de alta corrente  
-- Sistemas embarcados (Orange Pi, Raspberry Pi, ESP32)  
-- Protocolos (I2C, UART, SPI, PWM)  
-- Impressão 3D e modelagem mecânica para projetos funcionais  
-
-### 🧠 Sistemas e Ferramentas
+  ### 🧠 Sistemas e Ferramentas
 <div>
   <img src="https://skillicons.dev/icons?i=linux,git,github,raspberrypi" height="40" />
 </div>
@@ -53,7 +41,7 @@ Gosto de transformar ideias em hardware real.
 
 ## 🌐 Contato & Redes
 
-- 📧 **Email:** *Guilhermerenovs@mailcom*  
+- 📧 **Email:** *Guilhermerenovs@gmail.com*  
 - 🔗 *www.linkedin.com/in/guilhermerenovato*
 
 ---
