@@ -37,18 +37,6 @@ Gosto de transformar ideias em hardware real.
 
 ---
 
-## 🚧 Projetos em Destaque
-
-### 🔥 **Braço Robótico de 6 Eixos**
-- 4x MG996R  
-- 2x MG90S  
-- Chassi impresso em 3D  
-- Controlado por Orange Pi 3  
-- Código em Python + PWM externo  
-- Meta: criar I, presets de movimento e API
-
----
-
 ## 🛰️ Estatísticas do GitHub
 
 <div align="center">
