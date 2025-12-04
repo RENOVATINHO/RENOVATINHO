@@ -5,14 +5,8 @@
 ---
 
 ## ⚡ Sobre mim
-Hello Raider, me chamo Guilherme guilherme e sou um entusiasta de novas tecnologias:
-
-Gosto de transformar ideias em hardware real.
-
+Hello Raider, me chamo Guilherme e sou um entusiasta de novas tecnologias:
 ---
-
-## 🚀 Habilidades
-
 ### 🧩 Linguagens
 <div>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js" height="40" />
