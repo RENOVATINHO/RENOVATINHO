@@ -15,7 +15,7 @@ Gosto de transformar ideias em hardware real.
 
 ### 🧩 Linguagens
 <div>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js" height="40" />
 </div>
 
   ### 🧠 Sistemas e Ferramentas
