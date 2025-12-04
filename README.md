@@ -5,7 +5,7 @@
 ---
 
 ## ⚡ Sobre mim
-Hello Raider, me chamo Guilherme e sou um entusiasta de novas tecnologias:
+Hello Raider, De um entusiasta de novas tecnologias:
 ---
 ### 🧩 Linguagens
 <div>
@@ -39,7 +39,3 @@ Hello Raider, me chamo Guilherme e sou um entusiasta de novas tecnologias:
 - 🔗 *www.linkedin.com/in/guilhermerenovato*
 
 ---
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/renovatinho?template=classic&languages=1&activity=1&base=header" />
-</div>
