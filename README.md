@@ -8,13 +8,14 @@
 Hello Raider, De um entusiasta de novas tecnologias:
 ---
 ### 🧩 Linguagens
+
 <div>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,matlab&perline=3" />
 </div>
 
   ### 🧠 Sistemas e Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,raspberrypi" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,raspberrypi,vscode,docker&perline=3" />
 </div>
 
 ---
