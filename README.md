@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=004080&center=true&vCenter=true&width=600&lines=Desenvolvedor;Entusiasta+de+Tecnologia;Construindo+Solu%C3%A7%C3%B5es+Digitais" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=004080&center=true&vCenter=true&width=600&lines=Desenvolvedor;Engenheiro;Construindo+Solu%C3%A7%C3%B5es+Digitais" />
 </div>
 
 ---
@@ -32,18 +32,6 @@ Busco sempre evoluir tecnicamente e colaborar em projetos que gerem impacto real
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,matlab,linux,git,github,raspberrypi,vscode,docker&perline=6" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=renovatinho&show_icons=true&theme=tokyonight&border_color=004080" />
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatinho&layout=compact&theme=tokyonight&border_color=004080" />
-
 </div>
 
 ---
